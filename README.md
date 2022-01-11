@@ -73,7 +73,7 @@ There are 18 columns in the dataset, however the first column name is not a good
 
 1. Download the file
 
-2. Extract the file and copy Heart Disease Prediction folder
+2. Extract the file and copy K-Means College Project folder
 
 3. Type `cmd` in the Address Bar to open command prompt
 
